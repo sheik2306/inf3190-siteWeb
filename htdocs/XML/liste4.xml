@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="liste3.xsl"?>
+<liste xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="liste.xsd">
+	<etudiant>Martin David</etudiant>
+	<etudiant>Solange Gagnon</etudiant>
+	<etudiant>Franc Tremblay</etudiant>
+	<etudiant>Sylvie Dodo</etudiant>
+	<etudiant>Jean Coutu</etudiant>
+	<etudiant>charlie matt</etudiant>
+</liste>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="historique.xsl"?>
+
+<listeGreve>
+    <greve>
+        <dateDebut>2015-02-22</dateDebut>
+        <dateFin>2016-03-14</dateFin>
+        <cause>Hausse de salaire</cause>
+    </greve>
+    <greve>
+        <dateDebut>2016-04-13</dateDebut>
+        <dateFin>2017-03-22</dateFin>
+        <cause>Assurances</cause>
+    </greve>
+    <greve>
+        <dateDebut>2017-03-22</dateDebut>
+        <dateFin>2018-03-22</dateFin>
+        <cause>Assurances</cause>
+    </greve>
+</listeGreve>
